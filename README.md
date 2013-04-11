@@ -4,7 +4,7 @@
 
 Kitap içerisinde herbir arayüz, kendi başlığı altında tanıtım uygulamaları ve sağladığı kütüphane fonksiyonları ile ayrıntılı olarak incelenmektedir. İncelenen arayüzler tarafından sağlanan fonksiyonlar için bölüm sonlarında örnekler yer almaktadır. Yazılacak programlarda güvenlik konusu ayrı bir bölüm altında ele alınmaktadır. İlgili arayüzler hakkında sık karşılaşılan problemler bölümünde bir çok problem uygulamalı olarak ele alınmıştır.
 
-Volkan YAZICI <volkan.yazici@gmail.com>
+Volkan YAZICI &lt;<volkan.yazici@gmail.com>&gt;<br/>
 2006-02-14 22:25:01 EET
 
 # Hakkında
@@ -20,7 +20,7 @@ Proje, başka bir kitabın parçası olarak düşünüldüğünden, okuyucunun d
 
 # Yasal Uyarı
 
-Bu kitabın, PostgreSQL ile Programlama, telif hakkı &copy; 2006 Volkan YAZICI'ya aittir. Bu belgeyi, Free Software Foundation tarafından yayınlanmış bulunan GNU Özgür Belgeleme Lisansının 1.1 ya da daha sonraki sürümünün koşullarına bağlı kalarak kopyalayabilir, dağıtabilir ve/veya değiştirebilirsiniz. Bu lisansın bir kopyasını [http://www.gnu.org/copyleft/fdl.html](http://www.gnu.org/copyleft/fdl.html) adresinde bulabilirsiniz.
+Bu kitabın, PostgreSQL ile Programlama, telif hakkı &copy; 2006 Volkan YAZICI'ya aittir. Bu belgeyi, Free Software Foundation tarafından yayınlanmış bulunan GNU Özgür Belgeleme Lisansının 1.1 ya da daha sonraki sürümünün koşullarına bağlı kalarak kopyalayabilir, dağıtabilir ve/veya değiştirebilirsiniz. Bu lisansın bir kopyasını http://www.gnu.org/copyleft/fdl.html adresinde bulabilirsiniz.
 
 Bu belgedeki bilgilerin kullanımından doğacak sorumluluklar, ve olası zararlardan belge yazarı sorumlu tutulamaz. Bu belgedeki bilgileri uygulama sorumluluğu uygulayana aittir.
 
